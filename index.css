@@ -39,7 +39,7 @@ h2 {
 }
 
 .jumbotron-fluid{
-    background-image: url(../portfolio/asset/pinkMoon.jpg);
+    background-image: url(asset/pinkMoon.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
