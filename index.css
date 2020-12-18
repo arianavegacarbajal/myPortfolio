@@ -1,0 +1,66 @@
+body {
+    /* background-color: rgb(235, 122, 210, 0.836); */
+    /* background-color: lightpink; */
+    background-color: silver;
+}
+
+nav {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a {
+    color: black;
+}
+
+.col {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.display-4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 500%;
+    /* color: rgba(235, 122, 210, 0.836); */
+    color: rgba(203, 109, 146);
+    display: flex;
+    justify-content: center;
+}
+
+.lead{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 250%;
+    color: rgba(203, 109, 146);
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    color: rgba(203, 109, 146);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.jumbotron-fluid{
+    background-image: url(./assets/pinkMoon.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+label{
+    margin-left: 40%;
+}
+
+input {
+    width: 250%;
+}
+
+textarea {
+    width: 243%;
+}
+
+button{
+    margin-left: 40%;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
